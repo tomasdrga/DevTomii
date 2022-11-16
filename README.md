@@ -49,8 +49,8 @@
 <table>
 <thead>
 <tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b5ec7b8e4ef2001dc0df37f5e8a307bcb901be1976494e985d8362414014e9c5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d66616264756c38382673686f775f69636f6e733d74727565267468656d653d636974795f6c6967687473"><img src="https://github-readme-stats.vercel.app/api?username=devtomii&show_icons=true&theme=tokyonight&locale=en" alt="DevTomii's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fabdul88&amp;show_icons=true&amp;theme=city_lights" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bc3fb07df9650c79933eb4a9cfce5dab2a2d6bc3655750bcb6f5769e3e997e5f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d66616264756c3838267468656d653d636974792d6c6967687473"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devtomii&theme=tokyonight" alt="DevTomii's GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=fabdul88&amp;theme=city-lights" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github-readme-stats.vercel.app/api?username=devtomii&show_icons=true&theme=tokyonight&locale=en" alt="DevTomii's GitHub stats" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devtomii&theme=tokyonight&locale=en" alt="DevTomii's GitHub Streak" style="max-width: 100%;"></a></th>
 </tr>
 </thead>
 </table>
